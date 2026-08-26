@@ -1,17 +1,4 @@
-[
-  {
-    "id": "main",
-    "components": [
-      "section"
-    ]
-  },
-  {
-    "...": "./_section.json#/filters"
-  },
-  {
-    "...": "../blocks/*/_*.json#/filters"
-  },
-  {
+{
   "id": "section",
   "components": [
     "text",
@@ -24,5 +11,3 @@
     "quote"
    ]
 }
-
-]
